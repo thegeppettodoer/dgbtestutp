@@ -12,6 +12,6 @@
 
 ![DetailScreen #2](./assets/screenshots/detailscreen1.png)
 
-<img src="./assets/screenshots/homescreen1.png" alt="Texto HomeScreen" widh="300px"
+<img src="./assets/screenshots/homescreen1.png" alt="Texto HomeScreen" height="400"
  resizeMode="contain"
  style="max-width:300px;">
