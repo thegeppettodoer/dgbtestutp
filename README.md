@@ -1,17 +1,19 @@
 # dgbtestutp
 
-
 # Autor: David Garcia Balarezo
 
 
-![HomeScreen   #1](./assets/screenshots/homescreen1.png)
+ ## HomeScreen   #1
+<img src="./assets/screenshots/homescreen1.png" alt="Texto HomeScreen 1" height="450"
+ resizeMode="contain"
+ style="max-width:300px;">
 
+ ## HomeScreen   #2
+<img src="./assets/screenshots/homescreen2.png" alt="Texto HomeScreen 2" height="450"
+ resizeMode="contain"
+ style="max-width:300px;">
 
-![HomeScreen   #2](./assets/screenshots/homescreen2.png)
-
-
-![DetailScreen #2](./assets/screenshots/detailscreen1.png)
-
-<img src="./assets/screenshots/homescreen1.png" alt="Texto HomeScreen" height="400"
+## DetailScreen   #1
+<img src="./assets/screenshots/detailscreen1.png" alt="Texto DetailScreen 2" height="450"
  resizeMode="contain"
  style="max-width:300px;">
