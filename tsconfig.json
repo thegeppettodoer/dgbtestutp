@@ -2,7 +2,9 @@
   "compilerOptions": {
     "target": "es2021",
     "module": "commonjs",
-    "lib": ["es2021"],
+    "lib": [
+      "es2021"
+    ],
     "jsx": "react-native",
     "strict": true,
     "esModuleInterop": true,
@@ -10,10 +12,15 @@
     "moduleResolution": "node",
     "baseUrl": ".",
     "paths": {
-      "*": ["src/*"]
+      "*": [
+        "src/*"
+      ]
     },
     "resolveJsonModule": true,
     "skipLibCheck": true
   },
-  "exclude": ["node_modules"]
+  "exclude": [
+    "node_modules"
+  ],
+  "extends": "expo/tsconfig.base"
 }
