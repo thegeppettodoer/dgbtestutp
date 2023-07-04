@@ -1,0 +1,18 @@
+// Importa las dependencias necesarias
+import React from 'react';
+import { render } from '@testing-library/react-native';
+
+// Importa el componente que quieres probar
+import App from '../App';
+
+// Escribe la prueba
+describe('App', () => {
+  it('renders correctly', () => {
+    // Renderiza el componente
+    const { getByTestId } = render(<App />);
+    
+    // Verifica si el componente de navegación está presente en el componente renderizado
+    const appNavigator = getByTestId('appNavigator');
+    expect(appNavigator).toBeTruthy();
+  });
+});
